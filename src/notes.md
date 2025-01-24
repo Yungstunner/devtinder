@@ -12,3 +12,8 @@ eg-/hello /hello/2  /test
 -Use of regex in routes /a/,/.*fly$/
 -Reading query params in route
 -Reading dynamic routes
+
+-Multiple route handlers
+-next()
+-next function and errors along with res.send()
+-app.use("/route.rH,rH1,[rH3,rH4],rH5)
